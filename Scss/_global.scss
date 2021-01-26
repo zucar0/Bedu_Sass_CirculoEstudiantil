@@ -1,0 +1,17 @@
+//colores
+$white: #dbdbdb;
+$dark-green-title: red;
+$dark-green-text: #135359;
+$blue: #0000ff;
+
+//fuentes
+$font-title: "Alegreya", serif;
+
+//Alinear títulos
+//H e r e n c i a
+%base-title {
+    font-family: $font-title;
+    color: $dark-green-text;
+    display: flex;
+    font-size: 30px;
+}
