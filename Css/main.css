@@ -5,8 +5,8 @@
   font-size: 30px; }
 
 .blog {
-  background-color: #0000ff;
-  width: 100%;
+  background-color: #e7ffaf;
+  width: 30%;
   padding: 30px;
   display: flex; }
   .blog .process-list {
